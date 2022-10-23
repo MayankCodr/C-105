@@ -1,0 +1,17 @@
+body{
+    background-color: pink;
+
+}
+.heading{
+    background-color: rgb(252, 150, 106);
+    border-radius: 3px;
+    border-style: dashed ;
+    border-color: white;
+}
+#camera{
+    border-radius: 3px;
+    border-style: dashed ;
+    border-color: white;
+     width: 350px;
+    height: 300px;
+}
